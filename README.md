@@ -1,13 +1,13 @@
-# JustNow Updates
+# JustNow public updates
 
-Public Sparkle update feed and release assets for JustNow.
+This folder contains the public Sparkle feed mirrored to:
 
-The application source remains private in `JavierQuerol/news-watcher`. This repository only hosts public update metadata and release downloads required by Sparkle.
+https://github.com/JavierQuerol/justnow-updates
 
-Feed URL:
+The app source repository stays private. Publish macOS update archives as public
+release assets in `JavierQuerol/justnow-updates`, then update `appcast.xml` with
+Sparkle's `generate_appcast` output.
 
-```text
-https://javierquerol.github.io/justnow-updates/appcast.xml
-```
+Configured feed URL:
 
-Release assets should be uploaded to this public repository's GitHub Releases and referenced from `appcast.xml` by Sparkle's `generate_appcast` output.
+https://raw.githubusercontent.com/JavierQuerol/justnow-updates/main/appcast.xml
