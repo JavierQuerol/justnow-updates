@@ -6,6 +6,15 @@
         <description>Actualizaciones de JustNow para macOS.</description>
         <language>es</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sat, 31 Oct 2026 18:33:20 +0100</pubDate>
+            <link>https://github.com/JavierQuerol/justnow-updates</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JavierQuerol/justnow-updates/releases/download/v1.0.2/JustNow-1.0.2.zip" length="3459303" type="application/octet-stream" sparkle:edSignature="Ws6Pzj1PZFgY1c8v/ltv5uYakWUiVv992m3UGuRehU9AOqbChpv9H/9FgjvvZuexHEid8u2q9KlDLlCvayCTAQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 19 May 2026 12:22:15 +0200</pubDate>
             <link>https://github.com/JavierQuerol/justnow-updates</link>
